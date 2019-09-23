@@ -1,0 +1,30 @@
+th{
+    background-color: rgb(255, 72, 0);
+}
+
+.heaad{
+    background-color: rgb(212, 189, 114);
+}
+
+.heaad ul li{
+    position: relative;
+    margin-left: -89px;
+    display: inline-block;
+}
+
+.heaad ul li a{
+    text-decoration: none;
+    color: blue;
+    padding: 5px 50px;
+}
+
+.grey{
+    background-color: rgb(204, 204, 204);
+}
+
+.grey h3{
+    margin-top: -68px;
+}
+.white h3{
+    margin-top: -5px;
+}
